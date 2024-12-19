@@ -1,66 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on Here is Dreame&#39;s blog</title>
-        <link>https://dreame.github.io/tags/</link>
-        <description>Recent content in Tags on Here is Dreame&#39;s blog</description>
+        <title>Tags on Dreame&#39;s blog</title>
+        <link>https://dddreame.github.io/tags/</link>
+        <description>Recent content in Tags on Dreame&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Dreame</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://dreame.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Css</title>
-        <link>https://dreame.github.io/tags/css/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://dreame.github.io/tags/css/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Html</title>
-        <link>https://dreame.github.io/tags/html/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://dreame.github.io/tags/html/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Thu, 19 Dec 2024 00:23:11 +0800</lastBuildDate><atom:link href="https://dddreame.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Markdown</title>
-        <link>https://dreame.github.io/tags/markdown/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <link>https://dddreame.github.io/tags/markdown/</link>
+        <pubDate>Thu, 19 Dec 2024 00:23:11 +0800</pubDate>
         
-        <guid>https://dreame.github.io/tags/markdown/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Themes</title>
-        <link>https://dreame.github.io/tags/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://dreame.github.io/tags/themes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Tag With Whitespaces</title>
-        <link>https://dreame.github.io/tags/tag-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://dreame.github.io/tags/tag-with-whitespaces/</guid>
+        <guid>https://dddreame.github.io/tags/markdown/</guid>
         <description></description>
         </item>
         <item>
         <title>Text</title>
-        <link>https://dreame.github.io/tags/text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        <link>https://dddreame.github.io/tags/text/</link>
+        <pubDate>Thu, 19 Dec 2024 00:23:11 +0800</pubDate>
         
-        <guid>https://dreame.github.io/tags/text/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Emoji</title>
-        <link>https://dreame.github.io/tags/emoji/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://dreame.github.io/tags/emoji/</guid>
+        <guid>https://dddreame.github.io/tags/text/</guid>
         <description></description>
         </item>
         
